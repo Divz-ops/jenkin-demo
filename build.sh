@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "running script from Github"
+echo "hello from jenkin-repo"
 date
